@@ -1,6 +1,13 @@
 # CHANGELOG
 
-## 1.1.0 (2016-2-12)
+## 1.2.0 (2016-XX-XX)
+
+- Updated README
+- Added Backup scripts
+- Updated metadata.rb
+- Added integration tests for cron and backup script
+
+## 1.1.0 (2016-02-12)
 
 - Updated to `1.8.9` of minecraft server
 - Added the ability to declare an Operator via an attribute
